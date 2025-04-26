@@ -1,2 +1,4 @@
 Initial Commit On The Feature Branch
 Conflicting Commit With Sub Feature Branch
+Conflict Changes With Feature Branch
+Some More Changes In The feature File
